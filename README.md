@@ -1,1 +1,1 @@
- Rock Paper Scissors Game using python
+ Rock Paper Scissors Game in Python
